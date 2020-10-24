@@ -14,3 +14,4 @@
 // mas[mas.length] = 4
 // console.log(mas);
 console.log("Hello");
+console.log("sssf");
